@@ -3,7 +3,7 @@
 ARG BASE_IMAGE="php:7.2-alpine"
 ARG PACKAGIST_NAME="phan/phan"
 ARG PHPQA_NAME="phan"
-ARG VERSION="0.12.13"
+ARG VERSION="1.2.6"
 
 # Build image
 
